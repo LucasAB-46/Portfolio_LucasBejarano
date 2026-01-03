@@ -84,7 +84,7 @@ export const heroData = {
     subtitle: "Fullstack / Backend",
     name: "Lucas Bejarano",
     description:
-      "Estudiante avanzado de Analista de Sistemas. Desarrollo soluciones fullstack con Django, React y .NET, trabajando con APIs reales, autenticación JWT, bases de datos y paneles administrativos.",
+      "Desarrollo soluciones fullstack con Django, React y .NET, trabajando con APIs reales, autenticación JWT, bases de datos y paneles administrativos.",
     goal: "Busco seguir creciendo profesionalmente en IT (Backend / Fullstack / Soporte Dev).",
   },
   en: {
@@ -92,7 +92,7 @@ export const heroData = {
     subtitle: "Fullstack / Backend",
     name: "Lucas Bejarano",
     description:
-      "Advanced Systems Analyst student. I develop fullstack solutions with Django, React, and .NET, working with real APIs, JWT authentication, databases, and administrative panels.",
+      "I develop fullstack solutions with Django, React, and .NET, working with real APIs, JWT authentication, databases, and administrative panels.",
     goal: "Looking to continue growing professionally in IT (Backend / Fullstack / Dev Support).",
   }
 };
